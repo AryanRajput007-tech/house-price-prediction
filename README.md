@@ -121,4 +121,3 @@ You are free to use, modify, and distribute it.
 ## ⚡ Author
 
 **Aryan Singh Rajput**  
-Made with ❤️ and a passion for Machine Learning
